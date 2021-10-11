@@ -1,9 +1,9 @@
 # Faltu
 
 Faltu-
-this is ankit kumar verma from jaipur
+This is Ankit Kumar Verma from Jaipur
 
 This is update
 
-this is bains :)
+This is bains :)
 
